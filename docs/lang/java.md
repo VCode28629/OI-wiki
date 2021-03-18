@@ -168,7 +168,7 @@ String s = new String(stringArray);
 Java 中的类（`Class`）都被放在一个个包（`package`）里面。在一个包里面不允许有同名的类。在类的第一行通常要说明这个类是属于哪个包的。例如：
 
 ```java
-package org.oi-wiki.tutorial;
+package org.oiwiki.tutorial;
 ```
 
 包的命名规范一般是：`项目所有者的顶级域.项目所有者的二级域.项目名称`。
